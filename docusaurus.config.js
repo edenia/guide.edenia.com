@@ -11,12 +11,12 @@
 const siteConfig = {
   title: "EOSIO + Antelope Documentation",
   tagline: "Developer Documentation for EOSIO + Antelope Blockchain Networks",
-  url: "https://guide.eoscostarica.io",
+  url: "https://guide.edenia.com",
   baseUrl: "/", // Base URL for your project */
   //cname: "guide.eoscostarica.io",
   // Used for publishing and more
-  projectName: "guide.eoscostarica.io",
-  organizationName: "eoscostarica",
+  projectName: "guide.edenia.com",
+  organizationName: "edenia",
   favicon: "img/favicon/favicon.ico",
   //scripts: ['https://buttons.github.io/buttons.js','../../scripts/languageSelector.js'],
   themeConfig: {
